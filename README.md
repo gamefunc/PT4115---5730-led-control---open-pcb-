@@ -14,7 +14,7 @@ maybe this link direct view pcb: https://pro.lceda.cn/editor#id=12d567b1347e46f9
 
 # imgs:
 
-pwmm ok:
+pwm ok:
 ![image](https://raw.githubusercontent.com/gamefunc/PT4115---5730-led-control---open-pcb-/main/imgs/pwm.jpg)
 
 pcb+:
